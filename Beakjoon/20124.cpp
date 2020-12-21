@@ -35,14 +35,13 @@ int main(){
         }
         for(int i=0;i<N-1;i++){
             for(int j=i+1;j<N;j++){
-                if(strcmp(d[i],d[j])==1){
+                if(strcmp(d[i],d[j])==2){
                     strcpy(temp,d[i]);
                     strcpy(d[i],d[j]);
                     strcpy(d[j],temp);
                 }
             }
         }
-        for(int i=0;i<count;i++)
-            printf("%s\n",d[i]);
+        printf("%s\n",d[0]);
     }
 }
