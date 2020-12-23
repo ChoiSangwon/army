@@ -37,7 +37,6 @@ int main(){
             }
         }
         if(b==0&&a==0){
-            printf("%s\n",check);
             printf("%d\n",i+1);
             return 0;
         }
