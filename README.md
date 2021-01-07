@@ -86,7 +86,8 @@
 
 
 https://opentutorials.org/ 생활코딩
-https://www.codecademy.com/ 
+
+https://www.codecademy.com/ 코드아카데미
 
 
 전역할때에는 어느정도 기본을 가지고 전역하고싶다.
